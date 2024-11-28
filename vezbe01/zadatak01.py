@@ -1,8 +1,0 @@
-print("Univerzitet Singidunum - Centar Novi Sad.")
-print(2013)
-print("Akreditovan?")
-print(True)
-print("Prosek najboljeg studenta je:")
-print(10.0)
-print("Kolokvijum iz predmeta Osnove programiranja ce biti dana:")
-print(None)
