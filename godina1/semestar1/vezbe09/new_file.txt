@@ -1,0 +1,4 @@
+10
+Novi string
+True
+14.3
