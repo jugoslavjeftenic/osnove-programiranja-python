@@ -1,4 +1,4 @@
 Univerzitet Singidunum  
-Softversko i informaciono inženjerstvo
+Softversko i informaciono inženjerstvo - godina I
 
 ## Osnove programiranja - Python
