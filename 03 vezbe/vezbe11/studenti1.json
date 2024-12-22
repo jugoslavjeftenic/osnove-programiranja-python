@@ -1,0 +1,25 @@
+[
+    {
+        "ime": "Marko",
+        "prezime": "Markovic",
+        "ocene": [
+            9,
+            9,
+            10,
+            6
+        ],
+        "zaposlen": false
+    },
+    {
+        "ime": "Ana",
+        "prezime": "Anic",
+        "ocene": [
+            6,
+            6,
+            10,
+            10,
+            10
+        ],
+        "zaposlen": false
+    }
+]
