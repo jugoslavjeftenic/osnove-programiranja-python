@@ -1,0 +1,80 @@
+[
+    {
+        "duration": 103,
+        "team1": {
+            "name": "Japan",
+            "score": 2,
+            "yellow_cards": 2
+        },
+        "team2": {
+            "name": "Belgija",
+            "score": 0,
+            "yellow_cards": 2
+        }
+    },
+    {
+        "duration": 95,
+        "team1": {
+            "name": "Engleska",
+            "score": 3,
+            "yellow_cards": 1
+        },
+        "team2": {
+            "name": "Švajcarska",
+            "score": 5,
+            "yellow_cards": 2
+        }
+    },
+    {
+        "duration": 92,
+        "team1": {
+            "name": "Engleska",
+            "score": 1,
+            "yellow_cards": 1
+        },
+        "team2": {
+            "name": "Senegal",
+            "score": 6,
+            "yellow_cards": 1
+        }
+    },
+    {
+        "duration": 101,
+        "team1": {
+            "name": "Belgija",
+            "score": 0,
+            "yellow_cards": 0
+        },
+        "team2": {
+            "name": "Švajcarska",
+            "score": 6,
+            "yellow_cards": 1
+        }
+    },
+    {
+        "duration": 99,
+        "team1": {
+            "name": "Japan",
+            "score": 1,
+            "yellow_cards": 0
+        },
+        "team2": {
+            "name": "Katar",
+            "score": 0,
+            "yellow_cards": 1
+        }
+    },
+    {
+        "duration": 90,
+        "team1": {
+            "name": "Katar",
+            "score": 6,
+            "yellow_cards": 1
+        },
+        "team2": {
+            "name": "Senegal",
+            "score": 0,
+            "yellow_cards": 3
+        }
+    }
+]
